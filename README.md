@@ -35,12 +35,4 @@ The guide covers the following main areas:
 
 By following this guide, users can become proficient in using SQL Server Management Studio to effectively manage, develop, and optimize SQL Server databases, making their database-related tasks more efficient and streamlined.
 
-#### 
 
-
- جدول محتوا
-* [نرم‌افزار](#نرمافزار)
-* [تکنولوژی‌ها](#تکنولوژیها)
-* [راه‌اندازی](#راهاندازی)
-* [نحوه استفاده](#نحوه-استفاده)
-* [امکانات](#امکانات)
