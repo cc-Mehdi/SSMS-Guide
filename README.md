@@ -83,6 +83,17 @@ The guide covers the following main areas:
 
 
 ## Installation and Setup
+## Interface Overview
+## Connecting to Databases
+## Database Management
+## Querying and Scripting
+## Query Optimization
+## Backup and Restore
+## Security Management
+## Maintenance and Monitoring
+## Integration with Source Control
+## Extensions and Customization
+## Tips and Tricks
 
 
 
