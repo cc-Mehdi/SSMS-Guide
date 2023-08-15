@@ -58,7 +58,7 @@ The guide covers the following main areas:
 
 9.**تعمیر و نگهداری و نظارت:** کاربران با ابزارها و ویژگی های نظارت بر سلامت پایگاه داده، شناسایی تنگناها و عیب یابی مشکلات آشنا می شوند. وظایفی مانند بررسی یکپارچگی پایگاه داده، مدیریت مشاغل و نظارت بر فعالیت ها پوشش داده شده است.
 
-10.**یکپارچه سازی با Source Control:** راهنما به نحوه ادغام SSMS با سیستم های کنترل نسخه مانند Git اشاره می کند و به توسعه دهندگان اجازه می دهد تغییرات در طرح و اشیاء پایگاه داده را ردیابی کنند.
+10.**یکپارچه سازی با کنترل منبع:** راهنما به نحوه ادغام SSMS با سیستم های کنترل نسخه مانند Git اشاره می کند و به توسعه دهندگان اجازه می دهد تغییرات در طرح و اشیاء پایگاه داده را ردیابی کنند.
 
 11.**برنامه های افزودنی و سفارشی سازی:** SSMS از برنامه های افزودنی و سفارشی سازی برای افزایش عملکرد پشتیبانی می کند. به کاربران نشان داده می شود که چگونه برنامه های افزودنی را نصب کنند و SSMS را مطابق با نیازهای خاص خود تنظیم کنند.
 
@@ -68,18 +68,18 @@ The guide covers the following main areas:
 
 
 ## Content Table (جدول محتوا)
-* [Installation and Setup](#Installation-and-Setup)
-* [Interface Overview](#Interface-Overview)
-* [Connecting to Databases](#Connecting-to-Databases)
-* [Database Management](#Database-Management)
-* [Querying and Scripting](#Querying-and-Scripting)
-* [Query Optimization](#Query-Optimization)
-* [Backup and Restore](#Backup-and-Restore)
-* [Security Management](#Security-Management)
-* [Maintenance and Monitoring](#Maintenance-and-Monitoring)
-* [Integration with Source Control](#Integration-with-Source-Control)
-* [Extensions and Customization](#Extensions-and-Customization)
-* [Tips and Tricks](#Tips-and-Tricks)
+* [Installation and Setup (نصب و راه اندازی)](#Installation-and-Setup)
+* [Interface Overview (نمای کلی رابط)](#Interface-Overview)
+* [Connecting to Databases (اتصال به پایگاه های داده)](#Connecting-to-Databases)
+* [Database Management (مدیریت پایگاه داده)](#Database-Management)
+* [Querying and Scripting (کوئری و اسکریپت نویسی)](#Querying-and-Scripting)
+* [Query Optimization (بهینه سازی کوئری)](#Query-Optimization)
+* [Backup and Restore (پشتیبان گیری و بازیابی)](#Backup-and-Restore)
+* [Security Management (مدیریت امنیت)](#Security-Management)
+* [Maintenance and Monitoring (تعمیر و نگهداری و نظارت)](#Maintenance-and-Monitoring)
+* [Integration with Source Control (یکپارچه سازی با کنترل منبع)](#Integration-with-Source-Control)
+* [Extensions and Customization (برنامه های افزودنی و سفارشی سازی)](#Extensions-and-Customization)
+* [Tips and Tricks (نکات و ترفندها)](#Tips-and-Tricks)
 
 
 ## Installation and Setup
