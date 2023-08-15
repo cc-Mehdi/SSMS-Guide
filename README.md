@@ -68,7 +68,7 @@ The guide covers the following main areas:
 
 
 ## Content Table (جدول محتوا)
-* [Installation and Setup](#Installation_and_Setup)
+* [Installation and Setup](#Installation-and-Setup)
 * [Interface Overview](#Installation_and_Setup)
 * [Connecting to Databases](#Installation_and_Setup)
 * [Database Management](#Installation_and_Setup)
@@ -82,7 +82,7 @@ The guide covers the following main areas:
 * [Tips and Tricks](#Installation_and_Setup)
 
 
-## [Installation and Setup](#Installation_and_Setup)
+## Installation and Setup
 
 
 
