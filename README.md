@@ -82,18 +82,18 @@ The guide covers the following main areas:
 * [Tips and Tricks (نکات و ترفندها)](#Tips-and-Tricks)
 
 
-## Installation and Setup
-## Interface Overview
-## Connecting to Databases
-## Database Management
-## Querying and Scripting
-## Query Optimization
-## Backup and Restore
-## Security Management
-## Maintenance and Monitoring
-## Integration with Source Control
-## Extensions and Customization
-## Tips and Tricks
+## Installation and Setup (نصب و راه اندازی)
+## Interface Overview (نمای کلی رابط)
+## Connecting to Databases (اتصال به پایگاه های داده)
+## Database Management (مدیریت پایگاه داده)
+## Querying and Scripting (کوئری و اسکریپت نویسی)
+## Query Optimization (بهینه سازی کوئری)
+## Backup and Restore (پشتیبان گیری و بازیابی)
+## Security Management (مدیریت امنیت)
+## Maintenance and Monitoring (تعمیر و نگهداری و نظارت)
+## Integration with Source Control (یکپارچه سازی با کنترل منبع)
+## Extensions and Customization (برنامه های افزودنی و سفارشی سازی)
+## Tips and Tricks (نکات و ترفندها)
 
 
 
