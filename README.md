@@ -82,7 +82,7 @@ The guide covers the following main areas:
 * [Tips and Tricks](#Installation_and_Setup)
 
 
-## Installation and Setup
+## [Installation and Setup](#Installation_and_Setup)
 
 
 
