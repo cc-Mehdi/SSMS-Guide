@@ -67,5 +67,24 @@ The guide covers the following main areas:
 ### با پیروی از این راهنما، کاربران می توانند در استفاده از SQL Server Management Studio برای مدیریت مؤثر، توسعه و بهینه سازی پایگاه داده های SQL Server مهارت کسب کنند و وظایف مربوط به پایگاه داده خود را کارآمدتر و ساده تر کنند.
 
 
+## Content Table (جدول محتوا)
+* [Installation and Setup](#Installation)
+* [Interface Overview](#Installation_and_Setup)
+* [Connecting to Databases](#Installation_and_Setup)
+* [Database Management](#Installation_and_Setup)
+* [Querying and Scripting](#Installation_and_Setup)
+* [Query Optimization](#Installation_and_Setup)
+* [Backup and Restore](#Installation_and_Setup)
+* [Security Management](#Installation_and_Setup)
+* [Maintenance and Monitoring](#Installation_and_Setup)
+* [Integration with Source Control](#Installation_and_Setup)
+* [Extensions and Customization](#Installation_and_Setup)
+* [Tips and Tricks](#Installation_and_Setup)
+
+
+## Installation
+
+
+
 
 
