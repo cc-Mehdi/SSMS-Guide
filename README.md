@@ -69,17 +69,17 @@ The guide covers the following main areas:
 
 ## Content Table (جدول محتوا)
 * [Installation and Setup](#Installation-and-Setup)
-* [Interface Overview](#Installation_and_Setup)
-* [Connecting to Databases](#Installation_and_Setup)
-* [Database Management](#Installation_and_Setup)
-* [Querying and Scripting](#Installation_and_Setup)
-* [Query Optimization](#Installation_and_Setup)
-* [Backup and Restore](#Installation_and_Setup)
-* [Security Management](#Installation_and_Setup)
-* [Maintenance and Monitoring](#Installation_and_Setup)
-* [Integration with Source Control](#Installation_and_Setup)
-* [Extensions and Customization](#Installation_and_Setup)
-* [Tips and Tricks](#Installation_and_Setup)
+* [Interface Overview](#Interface-Overview)
+* [Connecting to Databases](#Connecting-to-Databases)
+* [Database Management](#Database-Management)
+* [Querying and Scripting](#Querying-and-Scripting)
+* [Query Optimization](#Query-Optimization)
+* [Backup and Restore](#Backup-and-Restore)
+* [Security Management](#Security-Management)
+* [Maintenance and Monitoring](#Maintenance-and-Monitoring)
+* [Integration with Source Control](#Integration-with-Source-Control)
+* [Extensions and Customization](#Extensions-and-Customization)
+* [Tips and Tricks](#Tips-and-Tricks)
 
 
 ## Installation and Setup
