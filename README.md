@@ -68,7 +68,7 @@ The guide covers the following main areas:
 
 
 ## Content Table (جدول محتوا)
-* [Installation and Setup (نصب و راه اندازی)](#Installation-and-Setup)
+* [Installation and Setup (نصب و راه اندازی)](#installation-and-setup-نصب-و-راه-اندازی)
 * [Interface Overview (نمای کلی رابط)](#Interface-Overview)
 * [Connecting to Databases (اتصال به پایگاه های داده)](#Connecting-to-Databases)
 * [Database Management (مدیریت پایگاه داده)](#Database-Management)
