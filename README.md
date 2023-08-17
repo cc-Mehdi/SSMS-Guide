@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/cc-Mehdi/SSMS-Guide)
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/43ba95ba-6e86-4b24-accf-1f11ab1c40c0)![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/32eff5b7-a272-4b32-b01d-e483cb14b971)![GitHub repo size](https://img.shields.io/github/repo-size/cc-Mehdi/SSMS-Guide)
 
 # SSMS Guide
 
@@ -83,6 +83,9 @@ The guide covers the following main areas:
 
 
 ## Installation and Setup (نصب و راه اندازی)
+
+**--The version that we use for this example is SSMS 2019 Developer Edition--**
+
 To install SQL Server Management Studio (SSMS), follow these steps:
 
 1. Download SSMS: Go to the official Microsoft Download Center and search for "SQL Server Management Studio." Choose the version that is compatible with your system and requirements. Or use this [link](https://soft98.ir/software/programming/3594-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D9%80%D8%AA-%D8%A7%D8%B3-%DA%A9%DB%8C%D9%88-%D8%A7%D9%84-%D8%B3%D8%B1%D9%88%D8%B1.html) to download from a persian web site.
@@ -91,17 +94,20 @@ To install SQL Server Management Studio (SSMS), follow these steps:
 
 3. Setup Options: During installation, you can choose various setup options. Make sure to select the components you want to install and specify any installation paths if needed.
 
-4. Accept License Terms: Read and accept the license terms to proceed with the installation.
+4. Choose Installation Type: Select either "Basic" or "Custom" installation. Basic includes common components, while Custom allows you to choose specific features. ![Choose Installation Type](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/6facc411-b0c9-469f-904c-1a31010d1007)
 
-5. Choose Installation Type: Select either "Basic" or "Custom" installation. Basic includes common components, while Custom allows you to choose specific features.
 
-6. Feature Selection: If you chose "Custom" installation, you'll be prompted to select specific features to install. Choose the ones you need, such as SQL Server Management Studio, SQL Server Data Tools, etc.
+5. Accept License Terms: Read and accept the license terms to proceed with the installation.
 
-7. Instance Configuration: If you're connecting to a specific SQL Server instance, you can configure the connection details at this step.
+6. 
 
-8. Complete Installation: Once you've configured your preferences, proceed with the installation. The installer will copy files and set up SSMS on your system.
+7. Feature Selection: If you chose "Custom" installation, you'll be prompted to select specific features to install. Choose the ones you need, such as SQL Server Management Studio, SQL Server Data Tools, etc.
 
-9. Finish: Once the installation is complete, you'll receive a confirmation message. You can now launch SQL Server Management Studio from your Start menu or desktop shortcut.
+8. Instance Configuration: If you're connecting to a specific SQL Server instance, you can configure the connection details at this step.
+
+9. Complete Installation: Once you've configured your preferences, proceed with the installation. The installer will copy files and set up SSMS on your system.
+
+10. Finish: Once the installation is complete, you'll receive a confirmation message. You can now launch SQL Server Management Studio from your Start menu or desktop shortcut.
 
 Remember that the installation process might slightly differ depending on the specific version of SSMS and your system's configuration. Make sure to consult the official documentation or installation guides for any specific details or troubleshooting.
 
