@@ -37,18 +37,18 @@ The guide covers the following main areas:
 ### By following this guide, users can become proficient in using SQL Server Management Studio to effectively manage, develop, and optimize SQL Server databases, making their database-related tasks more efficient and streamlined.
 
 ## Content Table
-* [Installation and Setup (نصب و راه اندازی)](#installation-and-setup)
-* [Interface Overview (نمای کلی رابط)](#interface-overview)
-* [Connecting to Databases (اتصال به پایگاه های داده)](#connecting-to-databases)
-* [Database Management (مدیریت پایگاه داده)](#database-management)
-* [Querying and Scripting (کوئری و اسکریپت نویسی)](#querying-and-scripting)
-* [Query Optimization (بهینه سازی کوئری)](#query-optimization)
-* [Backup and Restore (پشتیبان گیری و بازیابی)](#backup-and-restore)
-* [Security Management (مدیریت امنیت)](#security-management)
-* [Maintenance and Monitoring (تعمیر و نگهداری و نظارت)](#maintenance-and-monitoring)
-* [Integration with Source Control (یکپارچه سازی با کنترل منبع)](#integration-with-source-control)
-* [Extensions and Customization (برنامه های افزودنی و سفارشی سازی)](#extensions-and-customization)
-* [Tips and Tricks (نکات و ترفندها)](#tips-and-tricks)
+* [Installation and Setup](#installation-and-setup)
+* [Interface Overview](#interface-overview)
+* [Connecting to Databases](#connecting-to-databases)
+* [Database Management](#database-management)
+* [Querying and Scripting](#querying-and-scripting)
+* [Query Optimization](#query-optimization)
+* [Backup and Restore](#backup-and-restore)
+* [Security Management](#security-management)
+* [Maintenance and Monitoring](#maintenance-and-monitoring)
+* [Integration with Source Control](#integration-with-source-control)
+* [Extensions and Customization](#extensions-and-customization)
+* [Tips and Tricks](#tips-and-tricks)
 
 
 ## Installation and Setup (نصب و راه اندازی)
