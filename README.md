@@ -51,7 +51,7 @@ The guide covers the following main areas:
 * [Tips and Tricks](#tips-and-tricks)
 
 
-## Installation and Setup (نصب و راه اندازی)
+## Installation and Setup
 
 [-Complete Installation Tutorial (Youtube)](https://www.youtube.com/watch?v=ZxSWKEgTjKc)
 
