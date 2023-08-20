@@ -82,11 +82,11 @@ SQL Server Management Studio (SSMS) provides a comprehensive interface for manag
 
 3. **Toolbar**: The toolbar contains various tools and options for managing and interacting with databases. It includes buttons for opening new query windows, executing queries, saving scripts, and more.
 
-![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/efd97d39-3e2b-409d-b470-cee1890956ff)
+![Toolbar](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/efd97d39-3e2b-409d-b470-cee1890956ff)
 
 4. **Results Pane**: When you execute a query, the results are displayed in the results pane. This pane provides tabular views of query output, which can be sorted, filtered, and exported.
 
-![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/2133a0a3-9490-4a9c-9248-14a0f15bb46c)
+![Results Pane](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/2133a0a3-9490-4a9c-9248-14a0f15bb46c)
 
 5. **Object Scripting**: You can generate scripts for various database objects using SSMS. Right-click on an object in the Object Explorer to script it out. This is useful for tasks like creating backups or deploying changes to another database.
 
@@ -105,6 +105,7 @@ SQL Server Management Studio (SSMS) provides a comprehensive interface for manag
 12. **Scripting and Execution Options**: When writing and executing queries, SSMS provides options for controlling how queries are executed, whether results are returned as text or grids, and more.
 
 These are just some of the key components of the SQL Server Management Studio interface. Depending on your tasks and requirements, you might use different parts of the interface to manage databases, write queries, monitor performance, and perform various database-related tasks.
+
 ## Connecting to Databases
 ## Database Management
 ## Querying and Scripting
