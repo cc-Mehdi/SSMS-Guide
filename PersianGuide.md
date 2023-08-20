@@ -53,15 +53,15 @@
 * [نکات و ترفندها](#tips-and-tricks-نکات-و-ترفندها)
 
 
-## Installation and Setup (نصب و راه اندازی)
+## نصب و راه اندازی
 
-[-Complete Installation Tutorial (Youtube)](https://www.youtube.com/watch?v=ZxSWKEgTjKc)
+[-آموزش کامل نصب (یوتیوب)](https://www.youtube.com/watch?v=ZxSWKEgTjKc)
 
-[-Complete Installation Tutorial (Aparat)](https://www.aparat.com/v/ck8sX)
+[-آموزش کامل نصب (آپارات)](https://www.aparat.com/v/ck8sX)
 
-**--The version that we use for this example is SSMS 2019 Developer Edition--**
+**--ورژنی که ما برای این مثال استفاده میکنیم SSMS 2019 Developer Edition است--**
 
-To install SQL Server Management Studio (SSMS), follow these steps:
+برای نصب SQL Server Management Studio (SSMS), مراحل زیر را انجام دهید:
 
 1. Download SSMS: Go to the official Microsoft Download Center and search for "SQL Server Management Studio." Choose the version that is compatible with your system and requirements. Or use this [link](https://soft98.ir/software/programming/3594-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D9%80%D8%AA-%D8%A7%D8%B3-%DA%A9%DB%8C%D9%88-%D8%A7%D9%84-%D8%B3%D8%B1%D9%88%D8%B1.html) to download from a persian web site.
 
