@@ -75,14 +75,18 @@ Remember that the installation process might slightly differ depending on the sp
 SQL Server Management Studio (SSMS) provides a comprehensive interface for managing and interacting with SQL Server databases. Here's an overview of its main components and features:
 
 1. **Object Explorer**: This is the left-hand panel of SSMS where you can navigate through the hierarchy of database objects. You can connect to database instances, databases, tables, views, stored procedures, and more.
+
 ![Object Explorer](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/ae54610c-f341-435b-9935-5b89229946ba)
 
 2. **Query Editor**: The query editor is where you write and execute SQL queries against your databases. It provides features like syntax highlighting, IntelliSense (autocomplete for SQL commands), and query execution.
 
-
 3. **Toolbar**: The toolbar contains various tools and options for managing and interacting with databases. It includes buttons for opening new query windows, executing queries, saving scripts, and more.
 
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/efd97d39-3e2b-409d-b470-cee1890956ff)
+
 4. **Results Pane**: When you execute a query, the results are displayed in the results pane. This pane provides tabular views of query output, which can be sorted, filtered, and exported.
+
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/2133a0a3-9490-4a9c-9248-14a0f15bb46c)
 
 5. **Object Scripting**: You can generate scripts for various database objects using SSMS. Right-click on an object in the Object Explorer to script it out. This is useful for tasks like creating backups or deploying changes to another database.
 
