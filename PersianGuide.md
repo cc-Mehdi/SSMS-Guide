@@ -65,12 +65,12 @@
 
 1. دانلود SSMS: به مرکز دانلود رسمی مایکروسافت بروید و «SQL Server Management Studio» را جستجو کنید. نسخه ای را انتخاب کنید که با سیستم و نیازهای شما سازگار باشد. یا برای دانلود از یک وب سایت فارسی از این [لینک](https://soft98.ir/software/programming/3594-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D9%80%D8%AA-%D8%A7%D8%B3-%DA%A9%DB%8C%D9%88-%D8%A7%D9%84-%D8%B3%D8%B1%D9%88%D8%B1.html) استفاده کنید.
 
-2. Run Installer: Once the download is complete, run the installer executable. It will guide you through the installation process. ![Run Installer](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/d130a7ad-d7ff-4b05-8aba-1e6173c8f181)
+2. اجرای نصب کننده: پس از اتمام دانلود، فایل اجرایی نصب را اجرا کنید. شما را در مراحل نصب راهنمایی می کند. ![اجرای نصب کننده](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/d130a7ad-d7ff-4b05-8aba-1e6173c8f181)
 
-3. Finish: Once the installation is complete, you'll receive a confirmation message. You can now launch SQL Server Management Studio from your Start menu or desktop shortcut. ![Finish](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/b8547d43-2cc0-48d1-8fd7-2d2e5b3924b8)
+3. پایان: پس از اتمام نصب، یک پیام تأیید دریافت خواهید کرد. اکنون می توانید SQL Server Management Studio را از منوی استارت یا میانبر دسکتاپ خود راه اندازی کنید. ![پایان](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/b8547d43-2cc0-48d1-8fd7-2d2e5b3924b8)
 
 
-Remember that the installation process might slightly differ depending on the specific version of SSMS and your system's configuration. Make sure to consult the official documentation or installation guides for any specific details or troubleshooting.
+به یاد داشته باشید که فرآیند نصب ممکن است بسته به نسخه خاص SSMS و پیکربندی سیستم شما کمی متفاوت باشد. برای هر گونه جزئیات خاص یا عیب یابی، با اسناد رسمی یا راهنمای نصب مشورت کنید.
 
 ## Interface Overview (نمای کلی رابط)
 ## Connecting to Databases (اتصال به پایگاه های داده)
