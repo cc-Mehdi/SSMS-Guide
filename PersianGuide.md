@@ -63,7 +63,7 @@
 
 برای نصب SQL Server Management Studio (SSMS), مراحل زیر را انجام دهید:
 
-1. Download SSMS: Go to the official Microsoft Download Center and search for "SQL Server Management Studio." Choose the version that is compatible with your system and requirements. Or use this [link](https://soft98.ir/software/programming/3594-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D9%80%D8%AA-%D8%A7%D8%B3-%DA%A9%DB%8C%D9%88-%D8%A7%D9%84-%D8%B3%D8%B1%D9%88%D8%B1.html) to download from a persian web site.
+1. دانلود SSMS: به مرکز دانلود رسمی مایکروسافت بروید و «SQL Server Management Studio» را جستجو کنید. نسخه ای را انتخاب کنید که با سیستم و نیازهای شما سازگار باشد. یا برای دانلود از یک وب سایت فارسی از این [لینک](https://soft98.ir/software/programming/3594-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D9%80%D8%AA-%D8%A7%D8%B3-%DA%A9%DB%8C%D9%88-%D8%A7%D9%84-%D8%B3%D8%B1%D9%88%D8%B1.html) استفاده کنید.
 
 2. Run Installer: Once the download is complete, run the installer executable. It will guide you through the installation process. ![Run Installer](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/d130a7ad-d7ff-4b05-8aba-1e6173c8f181)
 
