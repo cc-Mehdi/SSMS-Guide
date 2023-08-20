@@ -70,18 +70,17 @@ To install SQL Server Management Studio (SSMS), follow these steps:
 
 Remember that the installation process might slightly differ depending on the specific version of SSMS and your system's configuration. Make sure to consult the official documentation or installation guides for any specific details or troubleshooting.
 
-## Interface Overview (نمای کلی رابط)
-## Connecting to Databases (اتصال به پایگاه های داده)
-## Database Management (مدیریت پایگاه داده)
-## Querying and Scripting (کوئری و اسکریپت نویسی)
-## Query Optimization (بهینه سازی کوئری)
-## Backup and Restore (پشتیبان گیری و بازیابی)
-## Security Management (مدیریت امنیت)
-## Maintenance and Monitoring (تعمیر و نگهداری و نظارت)
-## Integration with Source Control (یکپارچه سازی با کنترل منبع)
-## Extensions and Customization (برنامه های افزودنی و سفارشی سازی)
-## Tips and Tricks (نکات و ترفندها)
-
+## Interface Overview
+## Connecting to Databases
+## Database Management
+## Querying and Scripting
+## Query Optimization
+## Backup and Restore
+## Security Management
+## Maintenance and Monitoring
+## Integration with Source Control
+## Extensions and Customization
+## Tips and Tricks
 
 
 
