@@ -112,11 +112,13 @@ These are just some of the key components of the SQL Server Management Studio in
 
 2. Connect to Server: In the "Connect to Server" window that appears, you'll need to specify the server name and authentication method: 
 
-  * Server Type: Choose the appropriate server type from the dropdown. Common options include "Database Engine" for standard databases, "Analysis Services" for OLAP databases, and more.
+* Server Type: Choose the appropriate server type from the dropdown. Common options include "Database Engine" for standard databases, "Analysis Services" for OLAP databases, and more.
 
-  * Server Name: Enter the name of the server you want to connect to. This can be an instance name, IP address, or a named instance (e.g., "localhost" or "MyServer\InstanceName").
+* Server Name: Enter the name of the server you want to connect to. This can be an instance name, IP address, or a named instance (e.g., "localhost" or "MyServer\InstanceName").
 
-  * Authentication: Select the appropriate authentication method. You can choose between Windows Authentication (using your Windows user credentials) or SQL Server Authentication (username and password).
+* Authentication: Select the appropriate authentication method. You can choose between Windows Authentication (using your Windows user credentials) or SQL Server Authentication (username and password).
+
+  ![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/7930f204-16f6-423a-8407-5062b6b6db60)
 
 3. Authentication Method:
 
