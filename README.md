@@ -136,6 +136,8 @@ These are just some of the key components of the SQL Server Management Studio in
 
 6. Connected: Once the connection is successful, you'll see the Object Explorer panel on the left side of the SSMS window. This panel displays the server's databases, security, and other components. You can now interact with the databases, run queries, and perform various tasks using SSMS.
 
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/e595cbc4-74a6-41e8-924b-d713f0f14f1c)
+
 Remember that the specific steps might vary slightly based on your version of SSMS and the SQL Server instance you're connecting to. If you encounter any connection issues, double-check your server name, authentication method, and credentials. If you're connecting to a remote server, ensure that the necessary network and firewall settings are in place to allow the connection.
 
 
