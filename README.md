@@ -124,7 +124,11 @@ These are just some of the key components of the SQL Server Management Studio in
 
 - Windows Authentication: If you select Windows Authentication, SSMS will attempt to connect using your current Windows credentials. Make sure you have the necessary permissions to access the server and databases.
 
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/28de3f20-e524-4276-9729-3c7792a58f17)
+
 - SQL Server Authentication: If you choose SQL Server Authentication, you'll need to provide a valid username and password. This is useful when you're connecting to a server that is set up to use SQL Server Authentication.
+
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/7930f204-16f6-423a-8407-5062b6b6db60)
 
 4. Additional Connection Options: Depending on the authentication method and server type, you might have additional options to configure, such as database selection, application name, and connection timeout.
 
