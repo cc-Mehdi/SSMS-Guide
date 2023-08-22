@@ -110,13 +110,13 @@ These are just some of the key components of the SQL Server Management Studio in
 
 1. Launch SSMS: Open SQL Server Management Studio from your Start menu or desktop shortcut.
 
-2. Connect to Server: In the "Connect to Server" window that appears, you'll need to specify the server name and authentication method:
+2. Connect to Server: In the "Connect to Server" window that appears, you'll need to specify the server name and authentication method: 
 
-- Server Type: Choose the appropriate server type from the dropdown. Common options include "Database Engine" for standard databases, "Analysis Services" for OLAP databases, and more.
+  * Server Type: Choose the appropriate server type from the dropdown. Common options include "Database Engine" for standard databases, "Analysis Services" for OLAP databases, and more.
 
-- Server Name: Enter the name of the server you want to connect to. This can be an instance name, IP address, or a named instance (e.g., "localhost" or "MyServer\InstanceName").
+  * Server Name: Enter the name of the server you want to connect to. This can be an instance name, IP address, or a named instance (e.g., "localhost" or "MyServer\InstanceName").
 
-- Authentication: Select the appropriate authentication method. You can choose between Windows Authentication (using your Windows user credentials) or SQL Server Authentication (username and password).
+  * Authentication: Select the appropriate authentication method. You can choose between Windows Authentication (using your Windows user credentials) or SQL Server Authentication (username and password).
 
 3. Authentication Method:
 
