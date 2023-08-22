@@ -108,9 +108,9 @@ These are just some of the key components of the SQL Server Management Studio in
 
 ## Connecting to Databases
 
-1.Launch SSMS: Open SQL Server Management Studio from your Start menu or desktop shortcut.
+1. Launch SSMS: Open SQL Server Management Studio from your Start menu or desktop shortcut.
 
-2.Connect to Server: In the "Connect to Server" window that appears, you'll need to specify the server name and authentication method:
+2. Connect to Server: In the "Connect to Server" window that appears, you'll need to specify the server name and authentication method:
 
 - Server Type: Choose the appropriate server type from the dropdown. Common options include "Database Engine" for standard databases, "Analysis Services" for OLAP databases, and more.
 
@@ -118,17 +118,17 @@ These are just some of the key components of the SQL Server Management Studio in
 
 - Authentication: Select the appropriate authentication method. You can choose between Windows Authentication (using your Windows user credentials) or SQL Server Authentication (username and password).
 
-3.Authentication Method:
+3. Authentication Method:
 
 - Windows Authentication: If you select Windows Authentication, SSMS will attempt to connect using your current Windows credentials. Make sure you have the necessary permissions to access the server and databases.
 
 - SQL Server Authentication: If you choose SQL Server Authentication, you'll need to provide a valid username and password. This is useful when you're connecting to a server that is set up to use SQL Server Authentication.
 
-4.Additional Connection Options: Depending on the authentication method and server type, you might have additional options to configure, such as database selection, application name, and connection timeout.
+4. Additional Connection Options: Depending on the authentication method and server type, you might have additional options to configure, such as database selection, application name, and connection timeout.
 
-5.Connect: After entering the required information, click the "Connect" button. SSMS will attempt to establish a connection to the specified server using the provided credentials.
+5. Connect: After entering the required information, click the "Connect" button. SSMS will attempt to establish a connection to the specified server using the provided credentials.
 
-6.Connected: Once the connection is successful, you'll see the Object Explorer panel on the left side of the SSMS window. This panel displays the server's databases, security, and other components. You can now interact with the databases, run queries, and perform various tasks using SSMS.
+6. Connected: Once the connection is successful, you'll see the Object Explorer panel on the left side of the SSMS window. This panel displays the server's databases, security, and other components. You can now interact with the databases, run queries, and perform various tasks using SSMS.
 
 Remember that the specific steps might vary slightly based on your version of SSMS and the SQL Server instance you're connecting to. If you encounter any connection issues, double-check your server name, authentication method, and credentials. If you're connecting to a remote server, ensure that the necessary network and firewall settings are in place to allow the connection.
 
