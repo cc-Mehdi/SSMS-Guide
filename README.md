@@ -174,6 +174,10 @@ SSMS provides database administrators, developers, and users with a comprehensiv
 Whether you're a database administrator responsible for maintaining large databases or a developer working on database-related tasks, SSMS provides a comprehensive set of tools to streamline database management tasks, optimize performance, and ensure the reliability and security of your SQL Server databases.
 
 ## Querying and Scripting
+
+Querying:
+Let's say you have a database named "SampleDB" and a table named "Employees" with columns "EmployeeID," "FirstName," and "LastName." To retrieve all the employee names from the table, you can execute the following query in SSMS:
+
 ## Query Optimization
 ## Backup and Restore
 ## Security Management
