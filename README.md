@@ -232,6 +232,8 @@ Query optimization in SQL Server Management Studio (SSMS) involves improving the
 
 15. **Testing:** Test your optimized queries thoroughly with different data scenarios to ensure they perform well in various situations.
 
+Remember that query optimization is an iterative process. Continuously monitor query performance and adapt your optimization strategies as needed.
+
 ## Backup and Restore
 ## Security Management
 ## Maintenance and Monitoring
