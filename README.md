@@ -190,7 +190,13 @@ You can also generate scripts for database objects like tables, stored procedure
 2. Select `"Script Table as" > "CREATE To" > "New Query Editor Window."`
 3. This will generate a script that creates the table. You can modify this script as needed.
 
+For scripting stored procedures, follow these steps:
 
+1. Right-click on the "Stored Procedures" folder in the Object Explorer.
+2. Select `"Script Stored Procedure as" > "CREATE To" > "New Query Editor Window."`
+3. This will script out the stored procedure creation code.
+
+Remember that these are basic examples, and SQL scripting can get much more complex depending on your requirements. Use the Object Explorer and Query Editor in SSMS to explore and interact with your database objects through querying and scripting.
 
 ## Query Optimization
 ## Backup and Restore
