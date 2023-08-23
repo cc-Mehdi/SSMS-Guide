@@ -183,6 +183,14 @@ Let's say you have a database named "SampleDB" and a table named "Employees" wit
 USE SampleDB;
 SELECT FirstName, LastName FROM Employees;
 ```
+**Scripting:**
+You can also generate scripts for database objects like tables, stored procedures, and more. Here's how you can script out a table creation:
+
+1. Right-click on the "Tables" folder in the Object Explorer.
+2. Select `"Script Table as" > "CREATE To" > "New Query Editor Window."`
+3. This will generate a script that creates the table. You can modify this script as needed.
+
+
 
 ## Query Optimization
 ## Backup and Restore
