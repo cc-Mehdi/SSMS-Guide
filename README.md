@@ -145,7 +145,9 @@ Remember that the specific steps might vary slightly based on your version of SS
 
 SSMS provides database administrators, developers, and users with a comprehensive suite of tools to efficiently manage the entire lifecycle of a database.
 
- 
+### **Key Features of Database Management in SSMS:**
+
+
 
 ## Querying and Scripting
 ## Query Optimization
