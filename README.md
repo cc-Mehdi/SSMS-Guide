@@ -142,6 +142,11 @@ Remember that the specific steps might vary slightly based on your version of SS
 
 
 ## Database Management
+
+SSMS provides database administrators, developers, and users with a comprehensive suite of tools to efficiently manage the entire lifecycle of a database.
+
+ 
+
 ## Querying and Scripting
 ## Query Optimization
 ## Backup and Restore
