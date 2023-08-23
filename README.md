@@ -175,8 +175,14 @@ Whether you're a database administrator responsible for maintaining large databa
 
 ## Querying and Scripting
 
-Querying:
+**Querying:**
+
 Let's say you have a database named "SampleDB" and a table named "Employees" with columns "EmployeeID," "FirstName," and "LastName." To retrieve all the employee names from the table, you can execute the following query in SSMS:
+
+``` 
+USE SampleDB;
+SELECT FirstName, LastName FROM Employees;
+```
 
 ## Query Optimization
 ## Backup and Restore
