@@ -235,6 +235,27 @@ Query optimization in SQL Server Management Studio (SSMS) involves improving the
 Remember that query optimization is an iterative process. Continuously monitor query performance and adapt your optimization strategies as needed.
 
 ## Backup and Restore
+
+**Backup:**
+
+1. **Connect to Database:** Open SSMS and connect to the SQL Server instance where the database you want to back up is located.
+
+2. **Object Explorer:** In the Object Explorer, expand the "Databases" node to view the list of databases.
+
+3. **Right-Click Database:** Right-click on the database you want to back up, and then select "Tasks" > "Back Up..." from the context menu.
+
+4. **Backup Database Window:** In the "Back Up Database" window, you can specify the backup type, destination, and other options.
+
+5. **Backup Type:** Choose the backup type (Full, Differential, Transaction Log, etc.) based on your needs.
+
+6. **Destination:** Specify the destination for the backup file. You can choose to create a backup to disk, tape, or URL.
+
+7. **Options:** Configure any additional options such as compression, backup sets, and expiration.
+
+8. **Media Options:** Set the media options like backup file name and whether to append to an existing backup set or create a new one.
+
+9. **Backup:** Click the "OK" button to start the backup process. A progress window will show the backup status.
+
 ## Security Management
 ## Maintenance and Monitoring
 ## Integration with Source Control
