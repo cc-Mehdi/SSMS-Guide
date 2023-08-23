@@ -244,7 +244,11 @@ Remember that query optimization is an iterative process. Continuously monitor q
 
 3. **Right-Click Database:** Right-click on the database you want to back up, and then select "Tasks" > "Back Up..." from the context menu.
 
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/5fd9b7d9-f663-4718-9740-e501e5ed6eb2)
+
 4. **Backup Database Window:** In the "Back Up Database" window, you can specify the backup type, destination, and other options.
+
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/89b01134-acdf-4d2a-860a-bfd9ea72ac0d)
 
 5. **Backup Type:** Choose the backup type (Full, Differential, Transaction Log, etc.) based on your needs.
 
