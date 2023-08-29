@@ -306,19 +306,19 @@ Maintenance and monitoring are essential tasks in SQL Server Management Studio (
 
 **Monitoring:**
 
-Activity Monitor: Use the built-in Activity Monitor in SSMS to view real-time information about current activity on your SQL Server instance. You can see active processes, resource usage, and locking information.
+1.  **Activity Monitor:** Use the built-in Activity Monitor in SSMS to view real-time information about current activity on your SQL Server instance. You can see active processes, resource usage, and locking information.
 
-SQL Server Profiler: Capture and analyze SQL Server events, queries, and performance metrics using SQL Server Profiler. This tool helps you identify performance bottlenecks and troubleshoot issues.
+2.  **SQL Server Profiler:** Capture and analyze SQL Server events, queries, and performance metrics using SQL Server Profiler. This tool helps you identify performance bottlenecks and troubleshoot issues.
 
-Dynamic Management Views (DMVs): These views provide insights into SQL Server's internal performance metrics and behavior. You can query DMVs to gather information about query execution, resource usage, and more.
+3.  **Dynamic Management Views (DMVs):** These views provide insights into SQL Server's internal performance metrics and behavior. You can query DMVs to gather information about query execution, resource usage, and more.
 
-Query Performance Tuning: Use tools like Query Store to monitor query performance over time. Identify poorly performing queries and analyze query plans to optimize them.
+4.  **Query Performance Tuning:** Use tools like Query Store to monitor query performance over time. Identify poorly performing queries and analyze query plans to optimize them.
 
-Alerts and Notifications: Set up alerts to be notified about specific events or conditions, such as low disk space, high CPU usage, or blocked processes.
+5.  **Alerts and Notifications:** Set up alerts to be notified about specific events or conditions, such as low disk space, high CPU usage, or blocked processes.
 
-Resource Utilization: Monitor CPU, memory, disk, and network usage to ensure your server has enough resources to handle the workload.
+6.  **Resource Utilization:** Monitor CPU, memory, disk, and network usage to ensure your server has enough resources to handle the workload.
 
-Error Logs: Regularly review SQL Server error logs to identify and address any issues or errors.
+7.  **Error Logs:** Regularly review SQL Server error logs to identify and address any issues or errors.
 
 Remember that these tasks are crucial for maintaining the health of your SQL Server environment. Regularly perform maintenance tasks and monitor your SQL Server instances to proactively identify and address potential problems.
 
