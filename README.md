@@ -294,6 +294,16 @@ Remember that security management is a complex and critical aspect of database a
 
 Maintenance and monitoring are essential tasks in SQL Server Management Studio (SSMS) to ensure the optimal performance and stability of your SQL Server instances. Here's a brief overview of maintenance and monitoring tasks you can perform in SSMS:
 
+Maintenance:
+
+Backup and Restore: Schedule regular backups of your databases to ensure data recovery in case of failures. You can create backup plans, schedule backups, and perform restores using SSMS.
+
+Index Maintenance: Regularly analyze and rebuild/reorganize indexes to optimize query performance. The "Indexing and Statistics" option in SSMS provides tools for managing indexes.
+
+Update Statistics: Keep statistics up-to-date to help the query optimizer make efficient execution plans. You can manually update statistics or set up automated jobs for this task.
+
+Data Cleanup: Remove unnecessary data, old records, and temporary data to free up storage space and improve query performance.
+
 ## Integration with Source Control
 ## Extensions and Customization
 ## Tips and Tricks
