@@ -304,6 +304,35 @@ Update Statistics: Keep statistics up-to-date to help the query optimizer make e
 
 Data Cleanup: Remove unnecessary data, old records, and temporary data to free up storage space and improve query performance.
 
+
+Maintenance and monitoring are essential tasks in SQL Server Management Studio (SSMS) to ensure the optimal performance and stability of your SQL Server instances. Here's a brief overview of maintenance and monitoring tasks you can perform in SSMS:
+
+Maintenance:
+
+Backup and Restore: Schedule regular backups of your databases to ensure data recovery in case of failures. You can create backup plans, schedule backups, and perform restores using SSMS.
+
+Index Maintenance: Regularly analyze and rebuild/reorganize indexes to optimize query performance. The "Indexing and Statistics" option in SSMS provides tools for managing indexes.
+
+Update Statistics: Keep statistics up-to-date to help the query optimizer make efficient execution plans. You can manually update statistics or set up automated jobs for this task.
+
+Data Cleanup: Remove unnecessary data, old records, and temporary data to free up storage space and improve query performance.
+
+Monitoring:
+
+Activity Monitor: Use the built-in Activity Monitor in SSMS to view real-time information about current activity on your SQL Server instance. You can see active processes, resource usage, and locking information.
+
+SQL Server Profiler: Capture and analyze SQL Server events, queries, and performance metrics using SQL Server Profiler. This tool helps you identify performance bottlenecks and troubleshoot issues.
+
+Dynamic Management Views (DMVs): These views provide insights into SQL Server's internal performance metrics and behavior. You can query DMVs to gather information about query execution, resource usage, and more.
+
+Query Performance Tuning: Use tools like Query Store to monitor query performance over time. Identify poorly performing queries and analyze query plans to optimize them.
+
+Alerts and Notifications: Set up alerts to be notified about specific events or conditions, such as low disk space, high CPU usage, or blocked processes.
+
+Resource Utilization: Monitor CPU, memory, disk, and network usage to ensure your server has enough resources to handle the workload.
+
+Error Logs: Regularly review SQL Server error logs to identify and address any issues or errors.
+
 ## Integration with Source Control
 ## Extensions and Customization
 ## Tips and Tricks
