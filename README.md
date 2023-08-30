@@ -326,6 +326,35 @@ Remember that these tasks are crucial for maintaining the health of your SQL Ser
 
 Integrating SQL Server Management Studio (SSMS) with source control allows you to manage your database scripts and schema changes using version control systems like Git. Here's a general overview of how to achieve this integration:
 
+Install Source Control Software: Make sure you have a version control system like Git installed on your system. You can download Git from the official website.
+
+Create or Clone Repository: If you don't already have a Git repository for your database scripts, create a new one or clone an existing repository to your local machine.
+
+Configure SSMS Integration:
+Open SSMS and connect to your database server.
+Go to the "Tools" menu and select "Options."
+Navigate to "Source Control" in the left pane.
+Choose the version control system you're using (Git, TFS, etc.).
+Configure the path to the Git executable if required.
+
+Link Database to Source Control:
+In SSMS, right-click on the database you want to integrate with source control.
+Select "Tasks" and then "Link Database to Source Control."
+Choose the appropriate version control system and repository path.
+Map database objects to repository folders if needed.
+
+Commit and Push Changes:
+Make changes to your database schema or scripts in SSMS.
+After making changes, go to the "View" menu and select "Team Explorer."
+In Team Explorer, navigate to the "Changes" tab.
+Review your changes and enter a commit message.
+Click "Commit All" to commit your changes to your local repository.
+Use "Sync" to push changes to the remote repository.
+
+Pull and Update Changes:
+If working in a team, regularly pull updates from the remote repository to ensure you have the latest changes.
+Use the Team Explorer in SSMS to pull and sync changes.
+
 ## Extensions and Customization
 ## Tips and Tricks
 
