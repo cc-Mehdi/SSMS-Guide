@@ -385,6 +385,11 @@ Remember that some customizations might require additional extensions or tools t
 
 ## Tips and Tricks
 
+Here are some useful tips and tricks for working with SQL Server Management Studio (SSMS):
+
+
+
+
 
 
 
