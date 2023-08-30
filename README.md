@@ -323,6 +323,9 @@ Maintenance and monitoring are essential tasks in SQL Server Management Studio (
 Remember that these tasks are crucial for maintaining the health of your SQL Server environment. Regularly perform maintenance tasks and monitor your SQL Server instances to proactively identify and address potential problems.
 
 ## Integration with Source Control
+
+Integrating SQL Server Management Studio (SSMS) with source control allows you to manage your database scripts and schema changes using version control systems like Git. Here's a general overview of how to achieve this integration:
+
 ## Extensions and Customization
 ## Tips and Tricks
 
