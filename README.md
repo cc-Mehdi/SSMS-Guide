@@ -387,6 +387,36 @@ Remember that some customizations might require additional extensions or tools t
 
 Here are some useful tips and tricks for working with SQL Server Management Studio (SSMS):
 
+Keyboard Shortcuts: Familiarize yourself with keyboard shortcuts for common actions like executing queries (F5), commenting/uncommenting code (Ctrl+K, Ctrl+C), and formatting code (Ctrl+K, Ctrl+Y).
+
+Object Explorer: Use the Object Explorer to navigate through databases, tables, views, and other database objects. Right-click on objects to access context menus for quick actions.
+
+Registered Servers: Use the Registered Servers window to manage and organize connections to different SQL Server instances. This is especially useful if you work with multiple databases.
+
+Templates: Utilize query templates for common tasks. Right-click in a query window, choose "Templates," and select a template to quickly generate code for tasks like creating a new table or view.
+
+Code Snippets: SSMS provides code snippets for SQL statements. Type the snippet shortcut (e.g., "sel" for SELECT statement) and press Tab to expand it into a complete query.
+
+IntelliSense: Take advantage of IntelliSense for code auto-completion and suggestions. Press Ctrl+Space to trigger IntelliSense and get a list of available objects and keywords.
+
+Query Execution Plan: Analyze query performance by using the "Include Actual Execution Plan" option before executing a query. It helps identify bottlenecks and optimization opportunities.
+
+Results to Grid/Text: Choose between displaying query results in a grid or text format. Right-click in the query window and select "Results to" to switch between the two.
+
+Templates Explorer: Access a variety of pre-built templates for common tasks by going to "View" > "Templates Explorer." This can save time and ensure consistency in your code.
+
+Tab Groups: Organize multiple query windows using tab groups. Right-click on a tab and choose "New Vertical Tab Group" or "New Horizontal Tab Group" to split the window.
+
+Multi-Server Queries: Execute the same query across multiple servers using the "SQL Server Multi-Server Query" feature. It can be helpful for centralized management.
+
+Ctrl+Click Navigation: Ctrl+click on an object's name to quickly navigate to its definition in the Object Explorer.
+
+Customize Shortcuts: Modify or create your own keyboard shortcuts by going to "Tools" > "Options" > "Keyboard." This can streamline your workflow.
+
+Object Scripting: Generate scripts for database objects (tables, views, procedures, etc.) by right-clicking on the object in Object Explorer and selecting "Script."
+
+Debugging: Use the debugging features to step through T-SQL code and analyze variables and data values.
+
 
 
 
