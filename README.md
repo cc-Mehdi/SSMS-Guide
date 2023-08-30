@@ -358,6 +358,9 @@ Use the Team Explorer in SSMS to pull and sync changes.
 By integrating SSMS with source control, you'll be able to track changes to your database schema, collaborate with team members, and manage version history effectively. Remember that the specific steps might vary based on the version of SSMS you're using and the version control system you've chosen. It's a good idea to refer to the official documentation for both SSMS and your chosen version control system for detailed setup instructions.
 
 ## Extensions and Customization
+
+SQL Server Management Studio (SSMS) supports various extensions and customization options to enhance your experience. Here are some ways you can customize SSMS:
+
 ## Tips and Tricks
 
 
