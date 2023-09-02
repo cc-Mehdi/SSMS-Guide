@@ -155,9 +155,9 @@
 
 5.**بهینه سازی عملکرد پرس و جو:** SSMS ابزارهایی را برای تجزیه و تحلیل عملکرد پرس و جو و شناسایی تنگناها فراهم می کند. می توانید از ابزارهایی مانند Query Store و برنامه های اجرایی برای بهینه سازی عملکرد پرس و جو برای پاسخگویی بهتر پایگاه داده استفاده کنید.
 
-Security Management: You can manage security by granting permissions to users, roles, and logins. SSMS allows you to control access to database objects and define security policies.
+6.**مدیریت امنیت:** شما می توانید امنیت را با اعطای مجوز به کاربران، نقش ها و ورود به سیستم مدیریت کنید. SSMS به شما امکان می دهد دسترسی به اشیاء پایگاه داده را کنترل کنید و سیاست های امنیتی را تعریف کنید.
 
-Maintenance Plans: SSMS enables you to set up maintenance plans to automate tasks such as database backups, index maintenance, and statistics updates.
+7.**برنامه های نگهداری:** SSMS شما را قادر می سازد تا برنامه های تعمیر و نگهداری را برای خودکارسازی وظایفی مانند پشتیبان گیری از پایگاه داده، نگهداری فهرست و به روز رسانی آمار تنظیم کنید.
 
 Integration Services: SSMS integrates with SQL Server Integration Services (SSIS), allowing you to design, deploy, and manage ETL (Extract, Transform, Load) packages for data integration.
 
