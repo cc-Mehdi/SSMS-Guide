@@ -145,6 +145,30 @@
 
 ویژگی های کلیدی مدیریت پایگاه داده در SSMS:
 
+1. **بخش Object Explorer:** نرم افزار SSMS یک Object Explorer ارائه می دهد که نمای درختی از تمام اجزای موجود در یک نمونه SQL Server ارائه می دهد. این شامل پایگاه های داده، جداول، نماها، رویه های ذخیره شده، توابع و موارد دیگر می شود. این به شما اجازه می دهد تا به راحتی اشیاء پایگاه داده را هدایت و مدیریت کنید.
+
+2.ویرایشگر Query: ویرایشگر Query در SSMS شما را قادر می سازد تا پرس و جوهای Transact-SQL (T-SQL) را در پایگاه داده خود بنویسید و اجرا کنید. همچنین می توانید پرس و جوهای خود را ذخیره و سازماندهی کنید تا برای استفاده مکرر راحت باشد.
+
+Design Tools: SSMS includes design tools that allow you to visually create and modify database objects such as tables, views, and stored procedures. These tools help streamline the development process and reduce the need to write complex T-SQL statements manually.
+
+Database Backup and Restore: With SSMS, you can perform database backups and restores to safeguard your data. You can create full, differential, and transaction log backups and restore databases to a specific point in time.
+
+Query Performance Optimization: SSMS provides tools to analyze query performance and identify bottlenecks. You can use tools like the Query Store and execution plans to optimize query performance for better database responsiveness.
+
+Security Management: You can manage security by granting permissions to users, roles, and logins. SSMS allows you to control access to database objects and define security policies.
+
+Maintenance Plans: SSMS enables you to set up maintenance plans to automate tasks such as database backups, index maintenance, and statistics updates.
+
+Integration Services: SSMS integrates with SQL Server Integration Services (SSIS), allowing you to design, deploy, and manage ETL (Extract, Transform, Load) packages for data integration.
+
+Reporting Services: You can manage and deploy SQL Server Reporting Services (SSRS) reports using SSMS.
+
+AlwaysOn Availability Groups: For high availability and disaster recovery, SSMS allows you to configure and manage AlwaysOn Availability Groups, which provide database mirroring and failover capabilities.
+
+Database Monitoring: SSMS offers tools for monitoring the health and performance of your databases. You can track resource usage, active sessions, and other metrics.
+
+Scripting: SSMS allows you to generate scripts for database objects, making it easy to recreate the database structure or objects in another environment.
+
 
 
 ## کوئری و اسکریپت نویسی
