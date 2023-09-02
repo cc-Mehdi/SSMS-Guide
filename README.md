@@ -145,7 +145,7 @@ Remember that the specific steps might vary slightly based on your version of SS
 
 SSMS provides database administrators, developers, and users with a comprehensive suite of tools to efficiently manage the entire lifecycle of a database.
 
-### **Key Features of Database Management in SSMS:**
+ **Key Features of Database Management in SSMS:**
 
 1. Object Explorer: SSMS offers an Object Explorer that provides a tree-like view of all the components within a SQL Server instance. This includes databases, tables, views, stored procedures, functions, and more. It allows you to easily navigate and manage database objects.
 
