@@ -147,9 +147,9 @@
 
 1. **بخش Object Explorer:** نرم افزار SSMS یک Object Explorer ارائه می دهد که نمای درختی از تمام اجزای موجود در یک نمونه SQL Server ارائه می دهد. این شامل پایگاه های داده، جداول، نماها، رویه های ذخیره شده، توابع و موارد دیگر می شود. این به شما اجازه می دهد تا به راحتی اشیاء پایگاه داده را هدایت و مدیریت کنید.
 
-2.ویرایشگر Query: ویرایشگر Query در SSMS شما را قادر می سازد تا پرس و جوهای Transact-SQL (T-SQL) را در پایگاه داده خود بنویسید و اجرا کنید. همچنین می توانید پرس و جوهای خود را ذخیره و سازماندهی کنید تا برای استفاده مکرر راحت باشد.
+2. **ویرایشگر Query:** ویرایشگر Query در SSMS شما را قادر می سازد تا پرس و جوهای Transact-SQL (T-SQL) را در پایگاه داده خود بنویسید و اجرا کنید. همچنین می توانید پرس و جوهای خود را ذخیره و سازماندهی کنید تا برای استفاده مکرر راحت باشد.
 
-Design Tools: SSMS includes design tools that allow you to visually create and modify database objects such as tables, views, and stored procedures. These tools help streamline the development process and reduce the need to write complex T-SQL statements manually.
+3. **ابزارهای طراحی:** SSMS شامل ابزارهای طراحی است که به شما امکان می دهد به صورت بصری اشیاء پایگاه داده مانند جداول، نماها و رویه های ذخیره شده را ایجاد و تغییر دهید. این ابزارها به ساده‌سازی فرآیند توسعه و کاهش نیاز به نوشتن دستی عبارات پیچیده T-SQL کمک می‌کنند.
 
 Database Backup and Restore: With SSMS, you can perform database backups and restores to safeguard your data. You can create full, differential, and transaction log backups and restore databases to a specific point in time.
 
