@@ -151,9 +151,9 @@
 
 3.**ابزارهای طراحی:** SSMS شامل ابزارهای طراحی است که به شما امکان می دهد به صورت بصری اشیاء پایگاه داده مانند جداول، نماها و رویه های ذخیره شده را ایجاد و تغییر دهید. این ابزارها به ساده‌سازی فرآیند توسعه و کاهش نیاز به نوشتن دستی عبارات پیچیده T-SQL کمک می‌کنند.
 
-Database Backup and Restore: With SSMS, you can perform database backups and restores to safeguard your data. You can create full, differential, and transaction log backups and restore databases to a specific point in time.
+4.**پشتیبان‌گیری و بازیابی پایگاه داده:** با SSMS، می‌توانید برای محافظت از داده‌های خود پشتیبان‌گیری و بازیابی پایگاه داده انجام دهید. می‌توانید نسخه‌های پشتیبان کامل، دیفرانسیل و گزارش تراکنش ایجاد کنید و پایگاه‌های داده را در یک نقطه زمانی خاص بازیابی کنید.
 
-Query Performance Optimization: SSMS provides tools to analyze query performance and identify bottlenecks. You can use tools like the Query Store and execution plans to optimize query performance for better database responsiveness.
+5.**بهینه سازی عملکرد پرس و جو:** SSMS ابزارهایی را برای تجزیه و تحلیل عملکرد پرس و جو و شناسایی تنگناها فراهم می کند. می توانید از ابزارهایی مانند Query Store و برنامه های اجرایی برای بهینه سازی عملکرد پرس و جو برای پاسخگویی بهتر پایگاه داده استفاده کنید.
 
 Security Management: You can manage security by granting permissions to users, roles, and logins. SSMS allows you to control access to database objects and define security policies.
 
