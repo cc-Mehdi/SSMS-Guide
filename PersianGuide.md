@@ -159,9 +159,9 @@
 
 7.**برنامه های نگهداری:** SSMS شما را قادر می سازد تا برنامه های تعمیر و نگهداری را برای خودکارسازی وظایفی مانند پشتیبان گیری از پایگاه داده، نگهداری فهرست و به روز رسانی آمار تنظیم کنید.
 
-Integration Services: SSMS integrates with SQL Server Integration Services (SSIS), allowing you to design, deploy, and manage ETL (Extract, Transform, Load) packages for data integration.
+8.**خدمات یکپارچه سازی:** SSMS با سرویس های یکپارچه سازی سرور SQL (SSIS) یکپارچه می شود و به شما امکان می دهد بسته های ETL (Extract, Transform, Load) را برای یکپارچه سازی داده ها طراحی، استقرار و مدیریت کنید.
 
-Reporting Services: You can manage and deploy SQL Server Reporting Services (SSRS) reports using SSMS.
+9.**خدمات گزارش دهی:** می توانید گزارش های سرویس گزارش دهی سرور SQL (SSRS) را با استفاده از SSMS مدیریت و اجرا کنید.
 
 AlwaysOn Availability Groups: For high availability and disaster recovery, SSMS allows you to configure and manage AlwaysOn Availability Groups, which provide database mirroring and failover capabilities.
 
