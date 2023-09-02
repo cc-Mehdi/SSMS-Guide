@@ -163,11 +163,11 @@
 
 9.**خدمات گزارش دهی:** می توانید گزارش های سرویس گزارش دهی سرور SQL (SSRS) را با استفاده از SSMS مدیریت و اجرا کنید.
 
-AlwaysOn Availability Groups: For high availability and disaster recovery, SSMS allows you to configure and manage AlwaysOn Availability Groups, which provide database mirroring and failover capabilities.
+10.**گروه‌های در دسترس همیشه روشن:** برای دسترسی بالا و بازیابی فاجعه، SSMS به شما امکان می دهد AlwaysOn Availability Groups را پیکربندی و مدیریت کنید، که قابلیت انعکاس پایگاه داده و Failover را ارائه می دهد.
 
-Database Monitoring: SSMS offers tools for monitoring the health and performance of your databases. You can track resource usage, active sessions, and other metrics.
+11.**نظارت بر پایگاه داده:** SSMS ابزارهایی را برای نظارت بر سلامت و عملکرد پایگاه داده شما ارائه می دهد. می توانید میزان مصرف منابع، جلسات فعال و سایر معیارها را ردیابی کنید.
 
-Scripting: SSMS allows you to generate scripts for database objects, making it easy to recreate the database structure or objects in another environment.
+12.**اسکریپت نویسی:** SSMS به شما امکان می دهد اسکریپت هایی را برای اشیاء پایگاه داده تولید کنید و بازسازی ساختار پایگاه داده یا اشیاء را در محیطی دیگر آسان می کند.
 
 
 
