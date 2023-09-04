@@ -197,6 +197,7 @@ SELECT FirstName, LastName FROM Employees;
 2. انتخاب کنید `"Script Stored Procedure as" > "CREATE To" > "New Query Editor Window."`
 3.این کد ایجاد رویه ذخیره شده را اسکریپت می کند.
 
+
 ## بهینه سازی کوئری
 ## پشتیبان گیری و بازیابی
 ## مدیریت امنیت
