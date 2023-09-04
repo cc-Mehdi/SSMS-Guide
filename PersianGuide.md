@@ -193,9 +193,9 @@ SELECT FirstName, LastName FROM Employees;
 
 برای اسکریپت رویه های ذخیره شده، این مراحل را دنبال کنید:
 
-1.روی پوشه "Stored Procedures" در Object Explorer کلیک راست کنید.
+1. روی پوشه "Stored Procedures" در Object Explorer کلیک راست کنید.
 2. انتخاب کنید `"Script Stored Procedure as" > "CREATE To" > "New Query Editor Window."`
-3.این کد ایجاد رویه ذخیره شده را اسکریپت می کند.
+3. این کد ایجاد رویه ذخیره شده را اسکریپت می کند.
 
 
 ## بهینه سازی کوئری
