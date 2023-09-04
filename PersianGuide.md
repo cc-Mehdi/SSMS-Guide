@@ -178,6 +178,12 @@
 فرض کنید یک پایگاه داده به نام "SampleDB" و یک جدول به نام "Employees" با ستون های "EmployeeID"، "FirstName" و "LastName" دارید. برای بازیابی همه نام‌های کارکنان از جدول، می‌توانید کوئری زیر را در SSMS اجرا کنید:
 
 
+``` 
+USE SampleDB;
+SELECT FirstName, LastName FROM Employees;
+```
+
+
 ## بهینه سازی کوئری
 ## پشتیبان گیری و بازیابی
 ## مدیریت امنیت
