@@ -260,6 +260,8 @@ Remember that query optimization is an iterative process. Continuously monitor q
 
 9. **Backup:** Click the "OK" button to start the backup process. A progress window will show the backup status.
 
+**Restore:**
+
 ## Security Management
 
 Security management in SSMS involves tasks such as setting up user accounts, permissions, and managing access to databases. Here are some steps you might take:
