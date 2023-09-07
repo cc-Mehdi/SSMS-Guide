@@ -230,7 +230,9 @@ SELECT FirstName, LastName FROM Employees;
 2. **بخش Object Explorer:** در Object Explorer، گره "Databases" را برای مشاهده لیست پایگاه های داده گسترش دهید.
 3. **پایگاه داده با کلیک راست:** روی پایگاه داده ای که می خواهید از آن نسخه پشتیبان تهیه کنید کلیک راست کرده و سپس از منوی زمینه، «Tasks» > «Back Up...» را انتخاب کنید.
    
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/5fd9b7d9-f663-4718-9740-e501e5ed6eb2)
 
+4. **پنجره Backup Database:** در پنجره "Backup Database" می توانید نوع پشتیبان گیری، مقصد و گزینه های دیگر را مشخص کنید.
 ## مدیریت امنیت
 ## تعمیر و نگهداری و نظارت
 ## یکپارچه سازی با کنترل منبع
