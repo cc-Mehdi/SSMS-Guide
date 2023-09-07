@@ -262,6 +262,24 @@ Remember that query optimization is an iterative process. Continuously monitor q
 
 **Restore:**
 
+Connect to Database: Open SSMS and connect to the SQL Server instance where you want to restore the database.
+
+Object Explorer: In the Object Explorer, expand the "Databases" node to view the list of databases.
+
+Right-Click Databases: Right-click on the "Databases" node, and then select "Restore Database..." from the context menu.
+
+General: In the "Restore Database" window, choose the "From device" option under the "Source for restore" section.
+
+Browse for Backup File: Click the "..." button to browse for the backup file you want to restore.
+
+Restore Options: Select the backup set you want to restore, and choose the appropriate restore options (overwrite, leave the database in a restoring state, etc.).
+
+Files: In the "Files" section, you can specify the destination for the data and log files.
+
+Options: Configure additional restore options such as recovery state, relocation of files, and more.
+
+Restore: Click the "OK" button to start the restore process. A progress window will show the restore status.
+
 ## Security Management
 
 Security management in SSMS involves tasks such as setting up user accounts, permissions, and managing access to databases. Here are some steps you might take:
