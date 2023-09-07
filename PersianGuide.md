@@ -233,6 +233,8 @@ SELECT FirstName, LastName FROM Employees;
 ![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/5fd9b7d9-f663-4718-9740-e501e5ed6eb2)
 
 4. **پنجره Backup Database:** در پنجره "Backup Database" می توانید نوع پشتیبان گیری، مقصد و گزینه های دیگر را مشخص کنید.
+
+![image](https://github.com/cc-Mehdi/SSMS-Guide/assets/57840939/89b01134-acdf-4d2a-860a-bfd9ea72ac0d)
 ## مدیریت امنیت
 ## تعمیر و نگهداری و نظارت
 ## یکپارچه سازی با کنترل منبع
