@@ -381,9 +381,9 @@ By integrating SSMS with source control, you'll be able to track changes to your
 
 SQL Server Management Studio (SSMS) supports various extensions and customization options to enhance your experience. Here are some ways you can customize SSMS:
 
-1.  **Themes and Color Schemes:** SSMS allows you to choose different themes and color schemes to change the look and feel of the interface. You can go to "Tools" > "Options" > "Environment" > "General" to select your preferred theme.
+1.  **Themes and Color Schemes:** SSMS allows you to choose different themes and color schemes to change the look and feel of the interface. You can go to `"Tools" > "Options" > "Environment" > "General"` to select your preferred theme.
 
-2.  **Custom Keyboard Shortcuts:** You can create or modify keyboard shortcuts for various commands. Navigate to "Tools" > "Options" > "Environment" > "Keyboard" to customize shortcuts.
+2.  **Custom Keyboard Shortcuts:** You can create or modify keyboard shortcuts for various commands. Navigate to `"Tools" > "Options" > "Environment" > "Keyboard"` to customize shortcuts.
 
 3.  **Customize Toolbars and Menus:** You can add or remove items from toolbars and menus according to your preferences. Right-click on the toolbar or menu bar and choose "Customize" to make adjustments.
 
@@ -395,11 +395,11 @@ SQL Server Management Studio (SSMS) supports various extensions and customizatio
 
 7.  **SSMSBoost:** This is a popular third-party extension that enhances SSMS with features like query execution history, tab coloring, query plan visualization, and more.
 
-8.  **SSMS Settings:** Explore the various settings and options in the "Tools" > "Options" menu to tailor SSMS to your preferences. You can adjust settings related to code editing, query execution, and more.
+8.  **SSMS Settings:** Explore the various settings and options in the `"Tools" > "Options"` menu to tailor SSMS to your preferences. You can adjust settings related to code editing, query execution, and more.
 
 9.  **Query Execution Options:** Customize how query results are displayed, whether they are shown in the grid, text, or chart format.
 
-10.  **IntelliSense:** SSMS provides IntelliSense, which offers code completion and suggestions as you type. You can adjust IntelliSense options under "Tools" > "Options" > "Text Editor" > "Transact-SQL" > "IntelliSense."
+10.  **IntelliSense:** SSMS provides IntelliSense, which offers code completion and suggestions as you type. You can adjust IntelliSense options under `"Tools" > "Options" > "Text Editor" > "Transact-SQL" > "IntelliSense"`.
 
 Remember that some customizations might require additional extensions or tools to be installed. Always ensure you are using reliable and trusted extensions from reputable sources. If you encounter any issues, you can refer to the official SSMS documentation or relevant user communities for assistance.
 
@@ -423,7 +423,7 @@ Here are some useful tips and tricks for working with SQL Server Management Stud
 
 8.  **Results to Grid/Text:** Choose between displaying query results in a grid or text format. Right-click in the query window and select "Results to" to switch between the two.
 
-9.  **Templates Explorer:** Access a variety of pre-built templates for common tasks by going to "View" > "Templates Explorer." This can save time and ensure consistency in your code.
+9.  **Templates Explorer:** Access a variety of pre-built templates for common tasks by going to `"View" > "Templates Explorer"`. This can save time and ensure consistency in your code.
 
 10.  **Tab Groups:** Organize multiple query windows using tab groups. Right-click on a tab and choose "New Vertical Tab Group" or "New Horizontal Tab Group" to split the window.
 
@@ -431,7 +431,7 @@ Here are some useful tips and tricks for working with SQL Server Management Stud
 
 12.  **Ctrl+Click Navigation:** Ctrl+click on an object's name to quickly navigate to its definition in the Object Explorer.
 
-13.  **Customize Shortcuts:** Modify or create your own keyboard shortcuts by going to "Tools" > "Options" > "Keyboard." This can streamline your workflow.
+13.  **Customize Shortcuts:** Modify or create your own keyboard shortcuts by going to `"Tools" > "Options" > "Keyboard"`. This can streamline your workflow.
 
 14.  **Object Scripting:** Generate scripts for database objects (tables, views, procedures, etc.) by right-clicking on the object in Object Explorer and selecting "Script."
 
