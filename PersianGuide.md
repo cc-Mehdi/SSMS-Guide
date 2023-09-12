@@ -328,6 +328,11 @@ SELECT FirstName, LastName FROM Employees;
 
 ## نکات و ترفندها
 
+در اینجا چند نکته و ترفند مفید برای کار با SQL Server Management Studio (SSMS) آورده شده است:
+
+
+
+
 
 
 
